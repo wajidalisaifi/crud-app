@@ -1,4 +1,5 @@
 # crud-app
-technology:  reactjs, mysql database and spring boot
-
+technology use =  reactjs, mysql database and spring boot
+backend = backend myapp folder
+frontend = src folder
 
